@@ -13,4 +13,4 @@ Results:
 • Synthesizable design of AHB2APB Bridge.
 • Designed AHB Master and APB Slave interfaces to initiate transactions over the bridge.
 • Verilog Testbench to verify the working.
-• Single Read and Single Write transfers verified.
+• Single Read and Single Write transfers verified
