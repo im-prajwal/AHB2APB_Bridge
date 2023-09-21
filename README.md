@@ -7,10 +7,13 @@ Advanced High-Performance Bus (AHB) is a high-performance bus designed to connec
 AHB to APB Bridge acts as an interface that connects the AHB and APB buses and allows slower peripherals connected to the APB to communicate with faster peripherals connected to the AHB.
 
 HDL: Verilog
+
 EDA Tool: Xilinx Vivado
 
 Results:
 
 i) Designed a synthesizable RTL of AHB2APB Bridge using Verilog. 
+
 ii) Designed AHB Master and APB Slave interfaces to initiate transactions over the bridge. 
+
 iii) Wrote a Verilog Testbench to verify  functionality of the bridge with Single Read and Single Write Transfers.
