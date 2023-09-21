@@ -13,8 +13,8 @@ EDA Tool: Xilinx Vivado
 
 Results:
 
-i) Designed a synthesizable RTL of AHB2APB Bridge using Verilog. 
+• Designed a synthesizable RTL of AHB2APB Bridge using Verilog. 
 
-ii) Designed AHB Master and APB Slave interfaces to initiate transactions over the bridge. 
+• Designed AHB Master and APB Slave interfaces to initiate transactions over the bridge. 
 
-iii) Wrote a Verilog Testbench to verify  functionality of the bridge with Single Read and Single Write Transfers.
+• Wrote a Verilog Testbench to verify  functionality of the bridge with Single Read and Single Write Transfers.
